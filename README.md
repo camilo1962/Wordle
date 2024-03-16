@@ -1,6 +1,6 @@
-![](https://github.com/camilo1962/Buscar-Palabras/blob/main/Assets/Images/portada.png)
+![](https://github.com/camilo1962/Wordle/blob/main/Assets/Graficos/Reglas.png)
 
 
 > Unity version - 2022.1.0f1
 
-**Update 4/11/23:** Adaptación del juego con diccionario en castellano
+**Wordle con 4 niveles, para averiguar palabras de 4, 5, 6 o 7 silabas
