@@ -1,5 +1,5 @@
-![](https://github.com/camilo1962/Wordle/blob/main/Assets/Graficos/Reglas.png)
-
+#### WORDLE
+[![](portada)](http:https://github.com/camilo1962/Wordle/blob/main/Assets/Graficos/Reglas.png/)
 
 > Unity version - 2022.1.0f1
 
